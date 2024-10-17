@@ -49,3 +49,21 @@
 ![](./res/pointnet++稳定性提升.png)
 
 ![](./res/pointnet++的效果.png)
+
+![](./res/点云补全.png)
+
+![](./res/点云补全遇到的问题.png)
+
+![](./res/pf-net.png)
+
+![](./res/构建标签.png)
+
+![](./res/pf-net整体网络模型.png)
+
+整体的框架是类似于GAN的框架去做的
+
+![](./res/pf-net特征提取模块.png)
+
+![](./res/pf-net输出模块.png)
+
+![](./res/pf-net优化目标.png)
